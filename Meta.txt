@@ -1,0 +1,19 @@
+> Adicionar Botão para bloquear inputs de dados;
+> Adicionar validação de dados
+> Adicionar janela verde no topo da página que mostra que os dados foram armezanados com sucesso e que a janela suma depois de 2 segundos com uma animação
+> Arrumar a opção de remover item, não mostra opção se você realmente quer fazer aquilo, além disso, os dados são atualizados quando recarrega a página tendo que pesquisar o item novamente, e por último, adicionar uma nova feature que permite selecionar varios itens para excluir de uma vez só.
+> Adicionar gráfico que mostra os valores gastos por mês.
+> Os valores Ano, Mês, Dia serão preenchidos automaticamente de acordo com a data do computador do usuário permitindo inserção rápida de novos itens
+> Começar com a descrição selecionada para preencher mais rápido;
+> O campo Valor prenchido com o formato Currency em todas instancias exemplo: 'R$1.000,20'
+> Colocar validação de dados no Dia para evitar que o usuário trolle o bagulho
+> Colocar som na validação de dados, um pra erro, outro para sucesso;
+> Colocar uma janela de Erro na validação de dados indicando qual item não foi preenchido com botão Voltar e selecionar o item que não foi preenchido;
+> Colocar gráfico que compara a quantidade gasta em meses, anos, tipo
+> colocar no github
+> ajustar versao mobile
+> arrumar bug - pesquisar valor - descrição não encontra os items
+> em consulta, colocar um input para selecionar o tipo de data e adicionar um calendario para selecionar período
+
+
+	
